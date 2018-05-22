@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array  Sum/Array  Sum.iml" filepath="$PROJECT_DIR$/Array  Sum/Array  Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compare Triplets/Compare Triplets.iml" filepath="$PROJECT_DIR$/Compare Triplets/Compare Triplets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diagonal Difference/Diagonal Difference.iml" filepath="$PROJECT_DIR$/Diagonal Difference/Diagonal Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Min Max/Min Max.iml" filepath="$PROJECT_DIR$/Min Max/Min Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plus Minus/Plus Minus.iml" filepath="$PROJECT_DIR$/Plus Minus/Plus Minus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Staircase/Staircase.iml" filepath="$PROJECT_DIR$/Staircase/Staircase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Summer.iml" filepath="$PROJECT_DIR$/Summer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aVeryBigSum/aVeryBigSum.iml" filepath="$PROJECT_DIR$/aVeryBigSum/aVeryBigSum.iml" />
+    </modules>
+  </component>
+</project>
