@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Array  Sum/Array  Sum.iml" filepath="$PROJECT_DIR$/Array  Sum/Array  Sum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Compare Triplets/Compare Triplets.iml" filepath="$PROJECT_DIR$/Compare Triplets/Compare Triplets.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Diagonal Difference/Diagonal Difference.iml" filepath="$PROJECT_DIR$/Diagonal Difference/Diagonal Difference.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Min Max/Min Max.iml" filepath="$PROJECT_DIR$/Min Max/Min Max.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Plus Minus/Plus Minus.iml" filepath="$PROJECT_DIR$/Plus Minus/Plus Minus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Staircase/Staircase.iml" filepath="$PROJECT_DIR$/Staircase/Staircase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Array  Sum/Array  Sum.iml" filepath="$PROJECT_DIR$/Warmup/Array  Sum/Array  Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Birthday Cake Candles/Birthday Cake Candles.iml" filepath="$PROJECT_DIR$/Warmup/Birthday Cake Candles/Birthday Cake Candles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Compare Triplets/Compare Triplets.iml" filepath="$PROJECT_DIR$/Warmup/Compare Triplets/Compare Triplets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Diagonal Difference/Diagonal Difference.iml" filepath="$PROJECT_DIR$/Warmup/Diagonal Difference/Diagonal Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Min Max/Min Max.iml" filepath="$PROJECT_DIR$/Warmup/Min Max/Min Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Plus Minus/Plus Minus.iml" filepath="$PROJECT_DIR$/Warmup/Plus Minus/Plus Minus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Staircase/Staircase.iml" filepath="$PROJECT_DIR$/Warmup/Staircase/Staircase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Summer.iml" filepath="$PROJECT_DIR$/Summer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aVeryBigSum/aVeryBigSum.iml" filepath="$PROJECT_DIR$/aVeryBigSum/aVeryBigSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Time Format/Time Format.iml" filepath="$PROJECT_DIR$/Warmup/Time Format/Time Format.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Warmup.iml" filepath="$PROJECT_DIR$/Warmup/Warmup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/aVeryBigSum/aVeryBigSum.iml" filepath="$PROJECT_DIR$/Warmup/aVeryBigSum/aVeryBigSum.iml" />
     </modules>
   </component>
 </project>
