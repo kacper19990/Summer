@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list id="b7f50786-8dcb-4024-823f-519eb5e816c1" name="Default" comment="" />
     <list default="true" id="63855d3b-4157-475c-811f-7eafd5599dd9" name="Algorithms Warmup" comment="Algorithms warm-up challenges from  HackerRank.">
-      <change afterPath="$PROJECT_DIR$/Climbing the Leaderboard/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium Tasks/Medium Tasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium Tasks/Perfect Square.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium Tasks/Perfect Square/Perfect Square.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium Tasks/Perfect Square/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup/Easy Tasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup/Grading/Grading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup/Grading/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Duplicate Words/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium Tasks/Climbing the Leaderboard/Climbing the Leaderboard.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warmup/Warmup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Climbing the Leaderboard/Climbing the Leaderboard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Climbing the Leaderboard/Climbing the Leaderboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Duplicate Words/Duplicate Words.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Climbing the Leaderboard/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Medium Tasks/Climbing the Leaderboard/src/Solution.java" afterDir="false" />
     </list>
-    <list id="b7f50786-8dcb-4024-823f-519eb5e816c1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,12 +21,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Climbing the Leaderboard/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/Duplicate Words/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding>
-                <element signature="e#393#402#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,6 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -64,6 +60,8 @@
         <option value="$PROJECT_DIR$/Grading/src/Solution.java" />
         <option value="$PROJECT_DIR$/Medium Tasks/Perfect Square/src/Solution.java" />
         <option value="$PROJECT_DIR$/Climbing the Leaderboard/src/Solution.java" />
+        <option value="$PROJECT_DIR$/Valid IP/src/Solution.java" />
+        <option value="$PROJECT_DIR$/Duplicate Words/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -74,9 +72,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -86,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,29 +94,19 @@
             <path>
               <item name="Summer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Summer" type="462c0819:PsiDirectoryNode" />
-              <item name="Climbing the Leaderboard" type="462c0819:PsiDirectoryNode" />
+              <item name="Duplicate Words" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Summer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Summer" type="462c0819:PsiDirectoryNode" />
-              <item name="Climbing the Leaderboard" type="462c0819:PsiDirectoryNode" />
+              <item name="Duplicate Words" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Summer" type="462c0819:PsiDirectoryNode" />
-              <item name="Medium Tasks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Summer" type="462c0819:PsiDirectoryNode" />
-              <item name="Medium Tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="Perfect Square" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -127,12 +114,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-1.2.0/resources/app/git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -225,6 +213,7 @@
       <workItem from="1527251734512" duration="2386000" />
       <workItem from="1527502946375" duration="867000" />
       <workItem from="1527504428978" duration="448000" />
+      <workItem from="1531338018435" duration="1330000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithms warm-up challenges from  HackerRank.">
       <created>1527017958866</created>
@@ -237,7 +226,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17705000" />
+    <option name="totallyTimeSpent" value="19035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -252,7 +241,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32902297" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27046978" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979867" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -284,13 +273,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Climbing the Leaderboard/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/Medium Tasks/Climbing the Leaderboard/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium Tasks/Climbing the Leaderboard/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="e#393#402#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -399,12 +392,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Climbing the Leaderboard/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/Medium Tasks/Valid IP/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium Tasks/Climbing the Leaderboard/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Duplicate Words/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
-            <element signature="e#393#402#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

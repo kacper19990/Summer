@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Climbing the Leaderboard/Climbing the Leaderboard.iml" filepath="$PROJECT_DIR$/Climbing the Leaderboard/Climbing the Leaderboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/Warmup/Compare Triplets/Compare Triplets.iml" filepath="$PROJECT_DIR$/Warmup/Compare Triplets/Compare Triplets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Warmup/Diagonal Difference/Diagonal Difference.iml" filepath="$PROJECT_DIR$/Warmup/Diagonal Difference/Diagonal Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Duplicate Words/Duplicate Words.iml" filepath="$PROJECT_DIR$/Duplicate Words/Duplicate Words.iml" />
       <module fileurl="file://$PROJECT_DIR$/Warmup/Easy Tasks.iml" filepath="$PROJECT_DIR$/Warmup/Easy Tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Warmup/Grading/Grading.iml" filepath="$PROJECT_DIR$/Warmup/Grading/Grading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Medium Tasks/Medium Tasks.iml" filepath="$PROJECT_DIR$/Medium Tasks/Medium Tasks.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Warmup/Staircase/Staircase.iml" filepath="$PROJECT_DIR$/Warmup/Staircase/Staircase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Summer.iml" filepath="$PROJECT_DIR$/Summer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Warmup/Time Format/Time Format.iml" filepath="$PROJECT_DIR$/Warmup/Time Format/Time Format.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Valid IP/Valid IP.iml" filepath="$PROJECT_DIR$/Valid IP/Valid IP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Warmup/aVeryBigSum/aVeryBigSum.iml" filepath="$PROJECT_DIR$/Warmup/aVeryBigSum/aVeryBigSum.iml" />
     </modules>
   </component>
