@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Warmup/Array  Sum/Array  Sum.iml" filepath="$PROJECT_DIR$/Warmup/Array  Sum/Array  Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Warmup/Birthday Cake Candles/Birthday Cake Candles.iml" filepath="$PROJECT_DIR$/Warmup/Birthday Cake Candles/Birthday Cake Candles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blackjack/Blackjack.iml" filepath="$PROJECT_DIR$/Blackjack/Blackjack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Warmup/Compare Triplets/Compare Triplets.iml" filepath="$PROJECT_DIR$/Warmup/Compare Triplets/Compare Triplets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Warmup/Diagonal Difference/Diagonal Difference.iml" filepath="$PROJECT_DIR$/Warmup/Diagonal Difference/Diagonal Difference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Duplicate Words/Duplicate Words.iml" filepath="$PROJECT_DIR$/Duplicate Words/Duplicate Words.iml" />
