@@ -7,6 +7,10 @@ public enum Suit {
         this.value = value;             //Assigns one of the values to the value variable
     }
 
+    Suit() {
+        
+    }
+
     public String getSuit(){
         return this.value;              //returns what the value variable holds
     }
