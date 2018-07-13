@@ -3,11 +3,11 @@ public enum CardFace {
 
     private int value;
 
-    private CardFace(int value){
-        this.value = value;
+    private CardFace(int value){        //
+        this.value = value;             //Assigns one of the values to the value variable
     }
 
     public  int getValue(){
-        return this.value;
+        return this.value;              //returns what the value variable holds
     }
 }

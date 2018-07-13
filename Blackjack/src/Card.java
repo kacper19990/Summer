@@ -1,4 +1,4 @@
 public interface Card {
     int getValue();
-    Suit getSuit;
+    Suit getSuit();
 }
